@@ -1,2 +1,6 @@
 # School Management System Application
-## Technologies:
+## Technologies
+* Java 8
+* JavaFX
+* JDBC
+* MySQL
